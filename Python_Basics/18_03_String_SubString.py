@@ -10,30 +10,9 @@
 #
 # /***************************************************/
 
-# Class
-class MyCalculator:
-    # Class - START
-    def add(self):
-        print("MyCalculator - add()")
 
-    def sub(self):
-        print("MyCalculator - sub()")
+valueInString = "Test Automation Engineer"
 
-# Class - END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Sub String
+# 0 to n-1
+print("valueInString[0:5]: "+valueInString[0:5]) # Test

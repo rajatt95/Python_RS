@@ -10,30 +10,15 @@
 #
 # /***************************************************/
 
-# Class
-class MyCalculator:
-    # Class - START
-    def add(self):
-        print("MyCalculator - add()")
 
-    def sub(self):
-        print("MyCalculator - sub()")
+valueInString = "Test Automation Engineer"
 
-# Class - END
+# Value at given index
+print("valueInString[0]: "+valueInString[0]) # T
+print("valueInString[1]: "+valueInString[1]) # e
+print("valueInString[2]: "+valueInString[2]) # s
+print("valueInString[3]: "+valueInString[3]) # t
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("valueInString[-1]: "+valueInString[-1]) # r
+# print("valueInString[30]: "+valueInString[30]) # IndexError:   index out of range
 

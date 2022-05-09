@@ -10,30 +10,9 @@
 #
 # /***************************************************/
 
-# Class
-class MyCalculator:
-    # Class - START
-    def add(self):
-        print("MyCalculator - add()")
 
-    def sub(self):
-        print("MyCalculator - sub()")
+valueInString = "Test Automation Engineer"
 
-# Class - END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Find expected String
+print("Test" in valueInString) # True
+print("Rajat" in valueInString) # False

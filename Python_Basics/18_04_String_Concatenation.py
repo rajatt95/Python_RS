@@ -10,30 +10,7 @@
 #
 # /***************************************************/
 
-# Class
-class MyCalculator:
-    # Class - START
-    def add(self):
-        print("MyCalculator - add()")
-
-    def sub(self):
-        print("MyCalculator - sub()")
-
-# Class - END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Concatenation
+value1 = "Rajat"
+value2 = "Verma"
+print(value1+" "+value2) # Rajat Verma
