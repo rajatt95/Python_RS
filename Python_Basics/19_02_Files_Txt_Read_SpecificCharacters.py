@@ -17,3 +17,12 @@ txtFileData = open('./files/TestData.txt')
 print(txtFileData.read(20))
 
 txtFileData.close()
+
+
+
+
+
+
+
+
+
