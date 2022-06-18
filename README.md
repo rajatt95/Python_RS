@@ -20,11 +20,15 @@ Learnings from Course :
 ![image](https://user-images.githubusercontent.com/26399692/167478518-fb2a044f-964b-4d68-bda5-4dd4e83659e8.png)
 ![image](https://user-images.githubusercontent.com/26399692/167478617-3d115af4-1710-46d2-83af-1079789f7942.png)
 ![image](https://user-images.githubusercontent.com/26399692/167478333-3892c82c-2204-4cc3-ac87-09b08daba87e.png)
+![image](https://user-images.githubusercontent.com/26399692/168165186-255cf75d-1667-4fd6-a5cc-55643ec7318d.png)
+![image](https://user-images.githubusercontent.com/26399692/168165263-6033db1c-98a0-4f77-881e-446398db1301.png)
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/26399692/167479212-60e284e1-32f2-4d91-96a4-700c61042785.png)
-![image](https://user-images.githubusercontent.com/26399692/167479354-096ad683-9979-43cf-863b-f770a41e4ce1.png)
+![image](https://user-images.githubusercontent.com/26399692/168164963-ce29173f-c63a-4755-932b-e5a91eb22410.png)
+![image](https://user-images.githubusercontent.com/26399692/168165009-8318cc4e-bd84-467f-be42-db8b95b02124.png)
 
 
 
