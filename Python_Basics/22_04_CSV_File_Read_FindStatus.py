@@ -31,4 +31,4 @@ print(customer_names.index('Tanya'))  # 3
 
 # Find the status for Tanya
 index_tanya = customer_names.index('Tanya')
-print("Tanya status: "+ customer_status[index_tanya])  # Tanya status: approved
+print("Tanya status: " + customer_status[index_tanya])  # Tanya status: approved
