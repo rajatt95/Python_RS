@@ -1,5 +1,5 @@
 # Python_RS
-Programming | Python | PyCharm | Data Types | Tuple | Dictionary | If-Else | Loops - For, While | Functions | OOPS Principles | Constructor | String - SubString, Concatenation, Split, Strip | Read & Write data into files | JSON Parsing
+Programming | Python | PyCharm | Data Types | Tuple | Dictionary | If-Else | Loops - For, While | Functions | OOPS Principles | Constructor | String - SubString, Concatenation, Split, Strip | Read & Write data into files | JSON Parsing | CSV package | Web Scrapping
 
 ------------------------------------------------------------------------------------------------------------------------
 # Course: <a href="https://www.udemy.com/course/python-sdet-rest-api-automation/">Learn API Automation Testing with Python & BDD Framework </a>
